@@ -25,9 +25,9 @@ The robot follows walls using IR sensors and uses the camera to detect colors.
 * OpenCV
 * Webots robot simulator
 
+
+# My Awesome Project
 👇
-
-![image](https://drive.google.com/drive/folders/1I0oGEdSC8qgdjcQ5AeL1b0uGyVwBCVEK)
-
+![Image]()
 
 ---
