@@ -28,6 +28,8 @@ The robot follows walls using IR sensors and uses the camera to detect colors.
 
 # My Awesome Project
 👇
-![Image]()
+![Image](https://github.com/cjayahansa/Task_completing_robot/blob/main/Screenshot%20from%202025-11-19%2000-33-33.png)
+![Image](https://github.com/cjayahansa/Task_completing_robot/blob/main/Screenshot%20from%202025-11-19%2000-32-58.png)
+![Image](https://github.com/cjayahansa/Task_completing_robot/blob/main/Screenshot%20from%202025-11-19%2000-26-32.png)
 
 ---
